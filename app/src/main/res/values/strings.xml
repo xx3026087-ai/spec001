@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">spec001</string>
+    <string name="inference_title">Local Inference</string>
+    <string name="load_model">Load Model</string>
+    <string name="generate">Generate</string>
+    <string name="cancel">Cancel</string>
+</resources>

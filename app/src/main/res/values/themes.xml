@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.spec001" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/purple_500</item>
+        <item name="android:colorSecondary">@color/teal_200</item>
+    </style>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+</resources>
